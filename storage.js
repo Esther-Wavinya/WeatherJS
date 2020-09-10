@@ -1,5 +1,5 @@
 class Storage {
-    constructor() {
+  constructor() {
     this.city;
     this.state;
     this.defaultCity = 'Tampa';

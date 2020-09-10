@@ -1,5 +1,5 @@
 class UI {
-    constructor() {
+  constructor() {
     this.location = document.getElementById('w-location');
     this.desc = document.getElementById('w-desc');
     this.string = document.getElementById('w-string');

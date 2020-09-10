@@ -1,4 +1,4 @@
-//Init storage
+// Init storage
 const storage = new Storage();
 // Get stored location data
 const weatherLocation = storage.getLocationData();
